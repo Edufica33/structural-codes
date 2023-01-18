@@ -1,10 +1,10 @@
-*ESCRIBIR LOS DATOS DEBAJO DE DONDE ESTÁ SU NOMBRE Y EN EL ORDEN QUE SE PRESENTAN (reemplazar numeros) medidas en cm
+*ESCRIBIR LOS DATOS DEBAJO DE DONDE ESTa SU NOMBRE Y EN EL ORDEN QUE SE PRESENTAN (reemplazar numeros) medidas en cm
 ****NOMBRE DEL ARCHIVO
 JUAN_1
 *lm(cm)	Hm(cm)	B(cm)	Hc(cm) 	
 97.5	120	7.5	11	
 *F'c	Fr	EcCCA	FcCCA
-280.33	37.09	19386	50
+280.33	37.09	19386	53
 Num. Lechos	Tipo acero (G42, G42RB, G42T, G56, G56T y G60)	
 2		G42RB
 *Φ(cm)	#barras	profundidad(cm)	

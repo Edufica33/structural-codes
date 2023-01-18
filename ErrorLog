@@ -1,54 +1,54 @@
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(55) : warning 520 - CN has been declared more than once with the same type (see line 46)
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(84) : warning 1226 - A REAL constant has been truncated with possible loss of precision - maybe a KIND is required
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(200) : warning 1220 - A 32 bit INTEGER has been converted to REAL with a 24 bit mantissa
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(15) : warning 197 - Variable IG has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 197 - Variable FC has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 197 - Variable FS has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 197 - Variable FT has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 242 - Variable N has been given a value but never used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 197 - Variable EPSICUCON has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(19) : warning 197 - Variable H has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable K has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable RHOS has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable FYH has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable VSH has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable VCC has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable SH has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable DIAMETROH has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable BPK has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable HPK has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable EPSICERO has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(22) : warning 197 - Variable EPSICEROCON has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(27) : warning 242 - Variable FY has been given a value but never used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(27) : warning 242 - Variable EPSISU has been given a value but never used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(34) : warning 197 - Variable EPSIJ has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(34) : warning 197 - Variable EPSIEX has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(34) : warning 197 - Variable MPNC has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(38) : warning 197 - Variable EPSIS has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(38) : warning 197 - Variable RC has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(43) : warning 197 - Variable CONT3 has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(44) : warning 197 - Variable SUMCCR1 has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(44) : warning 197 - Variable SUMICR has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable FCN3 has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable A has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable Z has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable PM has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable FNCEX has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable FNCJ has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable EN1 has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(47) : warning 197 - Variable FT4 has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(48) : warning 197 - Variable X has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(48) : warning 197 - Variable Y has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(49) : warning 197 - Variable CF has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(49) : warning 197 - Variable MC has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(49) : warning 197 - Variable PHIB has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(49) : warning 197 - Variable CM has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(51) : warning 197 - Variable CONTPHI has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(51) : warning 197 - Variable NMAXPHI has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(55) : warning 197 - Variable EPSIKP has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(55) : warning 197 - Variable TOL has been declared but not used
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(314) : warning 179 - Comparing floating point quantities for equality may give misleading results
-D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.F95(535) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(56) : warning 520 - CN has been declared more than once with the same type (see line 47)
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(85) : warning 1226 - A REAL constant has been truncated with possible loss of precision - maybe a KIND is required
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(201) : warning 1220 - A 32 bit INTEGER has been converted to REAL with a 24 bit mantissa
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(16) : warning 197 - Variable IG has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 197 - Variable FC has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 197 - Variable FS has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 197 - Variable FT has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 242 - Variable N has been given a value but never used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 197 - Variable EPSICUCON has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(20) : warning 197 - Variable H has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable K has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable RHOS has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable FYH has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable VSH has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable VCC has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable SH has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable DIAMETROH has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable BPK has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable HPK has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable EPSICERO has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(23) : warning 197 - Variable EPSICEROCON has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(28) : warning 242 - Variable FY has been given a value but never used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(28) : warning 242 - Variable EPSISU has been given a value but never used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(35) : warning 197 - Variable EPSIJ has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(35) : warning 197 - Variable EPSIEX has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(35) : warning 197 - Variable MPNC has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(39) : warning 197 - Variable EPSIS has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(39) : warning 197 - Variable RC has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(44) : warning 197 - Variable CONT3 has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(45) : warning 197 - Variable SUMCCR1 has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(45) : warning 197 - Variable SUMICR has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable FCN3 has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable A has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable Z has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable PM has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable FNCEX has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable FNCJ has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable EN1 has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(48) : warning 197 - Variable FT4 has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(49) : warning 197 - Variable X has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(49) : warning 197 - Variable Y has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(50) : warning 197 - Variable CF has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(50) : warning 197 - Variable MC has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(50) : warning 197 - Variable PHIB has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(50) : warning 197 - Variable CM has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(52) : warning 197 - Variable CONTPHI has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(52) : warning 197 - Variable NMAXPHI has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(56) : warning 197 - Variable EPSIKP has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(56) : warning 197 - Variable TOL has been declared but not used
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(315) : warning 179 - Comparing floating point quantities for equality may give misleading results
+C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.F95(536) : warning 179 - Comparing floating point quantities for equality may give misleading results
 [SLINK64 v3.02, Copyright (c) Silverfrost Ltd. 2015-2021]
-Loading D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\lgotemp@.obj
-Creating executable file D:\Documents\MAESTRIA\tesis\Flexion en muros a escala 1 a 3\finales\datos\FORTRAN\predicción\predic.exe
+Loading C:\Users\ramon\Documents\JUANC\predicción\fortran\lgotemp@.obj
+Creating executable file C:\Users\ramon\Documents\JUANC\predicción\fortran\predic.exe

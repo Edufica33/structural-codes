@@ -1,12 +1,13 @@
 PROGRAM Program_LateralForce_axialLoad
-	!Elaborado por Campos, Moo, Alcocer, Rosado.
-	!Fechad de la última modificación: 20/09/22
+	!Elaborado por Campos Ramón
+	!Fechad de la última modificación: 11/01/23
 	!OBJETIVO: obtener los puntos para el diagrama de interacción de una sección rectangular con N lechos de acero
 	!UNIVERSIDAD AUTÓNOMA DE YUCATÁN.
 	!CAMPUS DECIENCIAS EXACTAS E INGENIERÍAS.
 	!FACULTAD DE INGENIERÍA.
 	!MAESTRÍA EN INGENIERÍA.
 	!OPCIÓN ESTRUCTURAS.
+	!dic: /documents/juanc/predicción/fortran
 
 IMPLICIT NONE
 
